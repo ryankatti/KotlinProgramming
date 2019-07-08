@@ -1,4 +1,4 @@
-package com.liri.SealedClasses
+package com.liri.sealedclasses
 
 fun main() {
    println("Sealed class ${Consta(2.0)}")

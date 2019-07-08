@@ -1,4 +1,4 @@
-package com.liri
+package com.liri.gererics
 
 fun main() {
     val dog = Animal("Petty", 2.20,20.0)

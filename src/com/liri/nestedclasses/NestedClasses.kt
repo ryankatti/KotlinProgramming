@@ -1,4 +1,4 @@
-package com.liri.NestedClasses
+package com.liri.nestedclasses
 
 fun main() {
     var outer:Outer = Outer()

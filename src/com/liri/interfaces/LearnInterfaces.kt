@@ -1,4 +1,4 @@
-package com.liri.interfaces
+package com.liri.gererics.interfaces
 
 fun main() {
    var myInterface:MyInterface = Child()

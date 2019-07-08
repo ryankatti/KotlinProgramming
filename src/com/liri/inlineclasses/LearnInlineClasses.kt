@@ -1,4 +1,4 @@
-package com.liri.InlineClasses
+package com.liri.inlineclasses
 
 fun main() {
     val securePassWord = Password("passcode")

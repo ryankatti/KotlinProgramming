@@ -1,4 +1,4 @@
-package com.liri.Objects
+package com.liri.gererics.Objects
 
 fun main() {
      var objA = A(20)
@@ -8,7 +8,7 @@ fun main() {
 
 
 open class A(x: Int) {
-    public open val y: Int = x
+    open val y: Int = x
 
     fun foo() {
         val adHoc = object {

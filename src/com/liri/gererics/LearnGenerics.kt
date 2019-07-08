@@ -1,4 +1,4 @@
-package com.liri.Generics
+package com.liri.gererics
 
 fun main() {
 
